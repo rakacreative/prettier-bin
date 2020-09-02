@@ -1,1 +1,1 @@
-# prettier-bin
+Provides a workaround to npm's lack of bin symlinking when installing @rakacreative/prettier as an npm alias.

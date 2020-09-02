@@ -1,0 +1,11 @@
+{
+  "name": "@rakacreative/prettier-bin",
+  "version": "0.0.1",
+  "description": "Provides a workaround to npm's lack of bin symlinking when installing @rakacreative/prettier as an npm alias.",
+  "bin": {
+    "prettier": "index.js"
+  },
+  "repository": "rakacreative/prettier-bin",
+  "author": "Kevin Friend",
+  "license": "MIT"
+}
